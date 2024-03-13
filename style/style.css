@@ -1,0 +1,36 @@
+.col-md-12,
+.col-md-10,
+.col-md-2,
+.col-md-6,
+.col-md-4 {
+    background-color: #1a1a1a;
+    height: 150px; /* Ajusta la altura según sea necesario */
+    margin-bottom: 10px; /* Espacio entre las filas */
+    border-radius: 25px;
+    color:rgb(255, 255, 255);
+
+}
+
+.margincont{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.colcover{
+    height: 310px;
+}
+
+
+.groups{
+    background-color: #ffffff;
+}
+
+.bar{
+    height: 38px;
+}
+
+.intro{
+    width: 830px;
+    height:269px ;
+}
